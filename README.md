@@ -19,3 +19,5 @@ all music
 ![](images/images/Screenshot_1642294134.png)
 Now playing
 ![](images/images/Screenshot_1642294168.png)
+Notification control
+![](images/images/Screenshot_1642358755.png)

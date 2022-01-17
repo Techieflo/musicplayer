@@ -17,5 +17,5 @@ This application is simple music player using Flutter audio manager.
 ## screenshots
 all music
 ![](images/images/Screenshot_1642294134.png)
-
-
+Now playing
+![](images/images/Screenshot_1642294168.png)

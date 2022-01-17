@@ -14,4 +14,8 @@ This application is simple music player using Flutter audio manager.
 - Salmon bottom Bar
 - flutter Audio manager
 
+## screenshots
+all music
+![]
+
 

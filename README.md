@@ -1,16 +1,16 @@
-# music
+# Music Player with flutter
 
-A new Flutter project.
+This application is simple music player using Flutter audio manager.
 
-## Getting Started
+## Functionalities
+- Read all audio files from device
+- Auto sort Audio
+- playing Audio files
+- audio modes like [shuffle], [repeat] etc
 
-This project is a starting point for a Flutter application.
+## Packages used:
+- Flutter Audio query
+- Salmon bottom Bar
+- flutter Audio manager
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

@@ -7,6 +7,7 @@ This application is simple music player using Flutter audio manager.
 - Auto sort Audio
 - playing Audio files
 - audio modes like [shuffle], [repeat] etc
+- Background mode with Notification control.
 
 ## Packages used:
 - Flutter Audio query
